@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'Poppins Bold';
+    src: url("/praktikum3/tugas/font/poppins/Poppins-Bold.otf");
+}
+
+@font-face {
+    font-family: 'Poppins Light';
+    src: url("/praktikum3/tugas/font/poppins/Poppins-Light.otf");
+}
+
+@font-face {
+    font-family: 'Poppins Medium';
+    src: url("/praktikum3/tugas/font/poppins/Poppins-Medium.otf");
+}
+
+h1,
+b {
+    font-family: 'Poppins Bold';
+}
+
+.judul {
+    font-size: 45px;
+    margin: 6px 0;
+    padding: 3px 0;
+    line-height: 45px;
+}
+
+.creator {
+    margin: 2px 0 2px 0;
+    font-size: 14px;
+}
+
+h2,
+h3 {
+    font-family: 'Poppins Medium';
+    font-weight: 100;
+    line-height: 15px;
+    padding-top: 5px;
+    margin: 0 375px 0 375px;
+}
+
+p,
+li {
+    font-family: 'Poppins Light';
+}
+
+li {
+    margin: 0 375px 0 375px;
+    font-size: 13px;
+}
+
+p {
+    margin: 10px 375px 10px 375px;
+    font-size: 14px;
+}
+
+a {
+    color: #60a5fa;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1e40af;
+}
+
+.paragraph-various {
+    margin-bottom: 2px;
+}
+
+.nama-sumber {
+    font-size: 11px;
+    margin-top: 1px;
+    color: #9ca3af;
+}
