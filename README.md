@@ -1,17 +1,6 @@
 # webprogram-practicum
 Ini adalah tugas praktikum 3 mata kuliah Pemrograman Berbasis Web sebagai latihan HTML dan CSS.
-
-## Structure
-
---
-tugas
-└─font
-│ └─poppins
-│ │ │ Poppins-Bold.otf
-│ │ │ Poppins-Medium.otf
-│ │ │ Poppins-Light.otf
-│ styleTugasPrak3
-│ tugasprak3
+Menggunakan font external yaitu Poppins dalam penulisannya.
 
 ## Credit
 * [Rosa Salsa Saida]
